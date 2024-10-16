@@ -11,7 +11,8 @@
 3. MMM: Generative Masked Motion Model [CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Pinyoanuntapong_MMM_Generative_Masked_Motion_Model_CVPR_2024_paper.pdf)
 
 ### Segmentation, Alignment, Classification, Tracking, Object Detection...
-1. AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning [CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)
+1.Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration CVPR2024
+2. AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning [CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_AlignSAM_Aligning_Segment_Anything_Model_to_Open_Context_via_Reinforcement_CVPR_2024_paper.pdf)
 
 ### Scene or Vol Reconstruction
 1. pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction [CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Charatan_pixelSplat_3D_Gaussian_Splats_from_Image_Pairs_for_Scalable_Generalizable_CVPR_2024_paper.pdf)
