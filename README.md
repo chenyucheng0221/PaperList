@@ -1,4 +1,4 @@
-<img width="424" alt="image" src="https://github.com/user-attachments/assets/ff26a308-6c04-4116-944e-1fe62a43a173"># PaperList
+
 
 ## The student who presents will have to explain the article, talk abt how it may be relevant to med, and how they can modify or improve the mthd. This will train stdnt to be more innovative, and may allow the stdnts to suggest another project.
 
